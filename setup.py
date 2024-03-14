@@ -6,6 +6,7 @@ setup(
    description='No more haram python coding',
    author='saikiki',
    author_email='',
+   url="https://github.com/Saikikusuoisgood/Haramlib/tree/main",
    packages=['Haramlib'],
    install_requires=[''],
 )
